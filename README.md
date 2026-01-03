@@ -34,6 +34,5 @@ Included in this repository are:
  - Python code with output (supplied as a PDF)
  - The raw data.
 
-Data
-
+Data  
 Data was sourced from Maven Analytics’ public S&P 500 dataset and covers daily trading activity from January 2014 to December 2017.
