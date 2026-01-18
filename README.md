@@ -28,11 +28,11 @@ Recommendations
 Tools and technologies
  - Python (NumPy, Pandas, Matplotlib, Seaborn)
 
-Outputs  
+Outputs
 Included in this repository are:  
- - The full analysis and visualisations, within the stakeholder report
- - Python code with output (supplied as a PDF)
- - The raw data.
+ - The full analysis and visualisations, within the stakeholder report (S+P_500_Analysis_Report.pdf)
+ - Python code with output (supplied as a PDF) (S+P_500_Python_Code.pdf)
+ - The raw data. (S+P_500_Raw_Data.csv)
 
 Data  
 Data was sourced from Maven Analytics’ public S&P 500 dataset and covers daily trading activity from January 2014 to December 2017.
